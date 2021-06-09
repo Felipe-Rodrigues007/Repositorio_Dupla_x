@@ -1,0 +1,16 @@
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\bin\Debug\net5.0\Lista_de_produtos.exe
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\bin\Debug\net5.0\Lista_de_produtos.deps.json
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\bin\Debug\net5.0\Lista_de_produtos.runtimeconfig.json
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\bin\Debug\net5.0\Lista_de_produtos.runtimeconfig.dev.json
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\bin\Debug\net5.0\Lista_de_produtos.dll
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\bin\Debug\net5.0\ref\Lista_de_produtos.dll
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\bin\Debug\net5.0\Lista_de_produtos.pdb
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\obj\Debug\net5.0\Lista_de_produtos.csprojAssemblyReference.cache
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\obj\Debug\net5.0\Lista_de_produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\obj\Debug\net5.0\Lista_de_produtos.AssemblyInfoInputs.cache
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\obj\Debug\net5.0\Lista_de_produtos.AssemblyInfo.cs
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\obj\Debug\net5.0\Lista_de_produtos.csproj.CoreCompileInputs.cache
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\obj\Debug\net5.0\Lista_de_produtos.dll
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\obj\Debug\net5.0\ref\Lista_de_produtos.dll
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\obj\Debug\net5.0\Lista_de_produtos.pdb
+C:\Users\jjp\Desktop\exercicios\Lista_de_produtos\obj\Debug\net5.0\Lista_de_produtos.genruntimeconfig.cache

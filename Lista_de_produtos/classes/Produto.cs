@@ -1,9 +1,10 @@
 using System;
 using System.Collections.Generic;
+using Lista_de_produtos.interfaces;
 
 namespace Lista_de_produtos.classes
 {
-    public class Produto
+    public class Produto : Inproduto
     {
         public int codigo ;
         public string NomeProduto ;

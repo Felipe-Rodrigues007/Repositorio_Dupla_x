@@ -1,9 +1,10 @@
 using System;
 using System.Collections.Generic;
+using Lista_de_produtos.interfaces;
 
 namespace Lista_de_produtos.classes
 {
-    public class Usuario
+    public class Usuario : Inusuario
     {
         public int codigo;
         public string nome;

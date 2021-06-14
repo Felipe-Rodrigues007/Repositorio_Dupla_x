@@ -1,9 +1,10 @@
 using System;
 using System.Collections.Generic;
+using Lista_de_produtos.interfaces;
 
 namespace Lista_de_produtos.classes
 {
-    public class Login
+    public class Login : Inlogin
     {
         List<Marca> listaMarca = new List<Marca>();
         List<Produto> listaProduto = new List<Produto>();
